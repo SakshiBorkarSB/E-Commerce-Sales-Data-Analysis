@@ -1,2 +1,2 @@
 # E-Commerce-Sales-Data-Analysis
-This project performs an end-to-end Sales Data Analysis using Python to extract business insights and build a baseline forecasting model.
+This project analyzes the Brazilian Olist e-commerce dataset to uncover insights into sales trends, customer behavior, and operational performance using Python-based data analysis and visualization techniques.
