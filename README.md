@@ -8,9 +8,7 @@ This project analyzes the Brazilian Olist e-commerce dataset to uncover insights
 - Matplotlib
 - Seaborn
 
-📂 Dataset
-- Brazilian E-Commerce Public Dataset (Olist)
-
+📂 Dataset: Brazilian E-Commerce Public Dataset (Olist)
 Files used in analysis:
 - olist_orders_dataset
 - olist_order_items_dataset
