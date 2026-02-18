@@ -20,4 +20,3 @@ Files used in analysis:
 👨‍💻 Author
 
 Sakshi Borkar
-Aspiring Data Analyst | Python | SQL | Data Visualization | Power BI
