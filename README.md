@@ -9,7 +9,7 @@ This project analyzes the Brazilian Olist e-commerce dataset to uncover insights
 - Seaborn
 
 📂 Dataset
-Brazilian E-Commerce Public Dataset (Olist)
+- Brazilian E-Commerce Public Dataset (Olist)
 
 Files used in analysis:
 - olist_orders_dataset
